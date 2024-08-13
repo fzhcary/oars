@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "San Ramon",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "CA",
+				"name": "California"
+			},
+			"timezone": "America/Los_Angeles",
+			"latitude": 37.7618,
+			"longitude": -121.9133
+		},
+		"timestamp": 1723451403324
+	}
+}
